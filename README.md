@@ -1,5 +1,5 @@
 # 🐾 Yapay Zeka Destekli Hayvan Görüntü Sınıflandırıcı
-![Screenshot](screenshot.png)
+![ui_start](screenshots/ui_start.png)
 
 Bu proje, bir görüntü sınıflandırma modeli geliştirerek kullanıcının yüklediği hayvan görsellerini tanıyabilen bir yapay zekâ uygulamasıdır. Model, PyTorch ile eğitilmiş ResNet18 kullanır ve Streamlit tabanlı kullanıcı dostu bir arayüz sunar.
 
@@ -81,6 +81,7 @@ Projenin eğitim aşamasında [Animals-10 Dataset](https://www.kaggle.com/datase
 - 🔍 Tahmin Et butonuna tıklayın.
 - Model, tahmini sınıfı ve güven oranını gösterecektir.
 - %85’in altında güven oranına sahip tahminler gösterilmez.
+![result_success](screenshots/result_success.png)
 
 ---
 
