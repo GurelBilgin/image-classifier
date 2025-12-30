@@ -12,6 +12,7 @@ Bu proje, bir görüntü sınıflandırma modeli geliştirerek kullanıcının y
 - [Veri Seti Temini](#veri-seti-temini)
 - [Veri Seti Hakkında Notlar](#veri-seti-hakkında-notlar)
 - [Kullanım](#kullanım)
+- [Demo Video](#demo-video)
 - [Teknik Detaylar](#teknik-detaylar)
 - [Eğitim ve Değerlendirme](#eğitim-ve-değerlendirme)
 - [Desteklenen Hayvan Türleri](#desteklenen-hayvan-türleri)
@@ -50,7 +51,6 @@ python train.py
 # Arayüzü açmak ve tahmin yapmak için:
 streamlit run app.py
 ```
----
 
 ---
 
@@ -73,15 +73,18 @@ Projenin eğitim aşamasında [Animals-10 Dataset](https://www.kaggle.com/datase
 
 ---
 
-
-
-
 ## 🖥 Kullanım
 - Web arayüzünde 📤 Bir hayvan resmi yükleyin kısmından bir görsel seçin.
 - 🔍 Tahmin Et butonuna tıklayın.
 - Model, tahmini sınıfı ve güven oranını gösterecektir.
 - %85’in altında güven oranına sahip tahminler gösterilmez.
 ![result_success](screenshots/result_success.png)
+
+---
+
+## 🎬 Demo Video
+Uygulamanın kullanımını gösteren demo videosunu aşağıdaki linkten izleyebilirsiniz:  
+[Demo Video](https://drive.google.com/file/d/1-_wSm0sjNcUasKB5Q_uVlh87bizDHwSB/view?usp=drive_link)
 
 ---
 
