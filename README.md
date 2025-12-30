@@ -84,7 +84,7 @@ Projenin eğitim aşamasında [Animals-10 Dataset](https://www.kaggle.com/datase
 
 ## 🎬 Demo Video
 Uygulamanın kullanımını gösteren demo videosunu aşağıdaki linkten izleyebilirsiniz:  
-[Demo Video](https://drive.google.com/file/d/1-_wSm0sjNcUasKB5Q_uVlh87bizDHwSB/view?usp=drive_link)
+[Demo Video](https://drive.google.com/drive/folders/1f215MEZkeOTz1jHJjy3R16L4wrD3HBDW?usp=sharing)
 
 ---
 
