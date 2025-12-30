@@ -175,3 +175,4 @@ image_classifier/
 ## 👤 Hazırlayan
 - **Ad Soyad:** Gürel BİLGİN
 - **Öğrenci Numarası:** 220502041
+- **GitHub Repo:** [https://github.com/GurelBilgin/image-classifier](https://github.com/GurelBilgin/image-classifier)
