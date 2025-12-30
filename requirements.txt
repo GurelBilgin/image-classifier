@@ -1,0 +1,36 @@
+# -----------------------------
+# ARAYÜZ
+# -----------------------------
+streamlit==1.28.0
+
+# -----------------------------
+# PYTORCH & TORCHVISION
+# -----------------------------
+# CPU versiyonu için
+torch==2.1.0+cpu
+torchvision==0.16.0+cpu
+# Eğer CUDA destekli GPU varsa, aşağıdaki satırları kullanabilirsiniz (CUDA 12.2 örnek)
+# torch==2.1.0+cu122
+# torchvision==0.16.0+cu122
+
+# -----------------------------
+# GÖRÜNTÜ İŞLEME
+# -----------------------------
+Pillow==10.1.0
+
+# -----------------------------
+# VERİ İŞLEME & BİLİMSEL HESAPLAMA
+# -----------------------------
+numpy==1.26.5
+scikit-learn==1.3.1
+
+# -----------------------------
+# GRAFİK & GÖRSELLEŞTİRME
+# -----------------------------
+matplotlib==3.8.0
+seaborn==0.12.3
+
+# -----------------------------
+# İLERLEME ÇUBUĞU & YARDIMCI
+# -----------------------------
+tqdm==4.66.1
