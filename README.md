@@ -166,7 +166,6 @@ image_classifier/
 ```
 
 
-
 ---
 
 ## 🔗 Kaynaklar
